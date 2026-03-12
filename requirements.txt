@@ -1,0 +1,16 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+sqlalchemy[asyncio]==2.0.25
+redis==5.0.1
+kiteconnect==4.2.0
+telethon==1.35.0
+pandas==2.2.0
+numpy==1.26.3
+python-dotenv==1.0.0
+httpx==0.26.0
+python-telegram-bot==20.8
+aiofiles==23.2.1
+celery[redis]==5.3.6
+python-multipart==0.0.6
+pytest==7.4.4
+pytest-asyncio==0.23.3
